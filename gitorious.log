@@ -1,0 +1,44 @@
+commit e0de8232fb0b99cbfa19d75348a78a95e830262d
+Merge: d5ceef3 209fb2a
+Author: Rodrigo Hjort <rodrigo.hjort@gmail.com>
+Date:   Mon Aug 4 23:43:22 2014 -0300
+
+    Merge branch 'master' of gitorious.org:escovando-bits/cpf
+    
+    Conflicts:
+            cpf
+            cpf.c
+
+commit d5ceef3493fb944d6731b921ae71c559f350adba
+Merge: ef039b2 4f6ac71
+Author: Rodrigo Hjort <rodrigo.hjort@gmail.com>
+Date:   Mon Aug 4 23:32:14 2014 -0300
+
+    Merge branch 'master' of gitorious.org:escovando-bits/cpf
+    
+    Conflicts:
+            cpf
+            cpf.c
+
+commit 209fb2a7f1329abad00a958ccb1f0db58b83ef74
+Merge: ef039b2 4f6ac71
+Author: Rodrigo Hjort <rodrigo.hjort@gmail.com>
+Date:   Mon Aug 4 23:32:14 2014 -0300
+
+    Merge branch 'master' of gitorious.org:escovando-bits/cpf
+    
+    Conflicts:
+            cpf
+            cpf.c
+
+commit ef039b20246dc0dd506018644b0662036192b232
+Author: Rodrigo Hjort <rodrigo.hjort@gmail.com>
+Date:   Mon Aug 4 23:21:25 2014 -0300
+
+    função de validação de CPF
+
+commit 4f6ac7190ad4708046da7cc7a68ac8f3e6a33752
+Author: Rodrigo Hjort <rodrigo.hjort@gmail.com>
+Date:   Mon Aug 4 23:21:25 2014 -0300
+
+    função de validação de CPF
